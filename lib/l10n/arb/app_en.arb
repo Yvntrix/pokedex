@@ -1,0 +1,35 @@
+{
+  "@@locale": "en",
+  "counterAppBarTitle": "Counter",
+  "@counterAppBarTitle": {
+    "description": "Text shown in the AppBar of the Counter Page"
+  },
+  "failed_pokedex": "Failed to fetch pokedex",
+  "@failed__pokedex": {
+    "description": "Error message shown when the pokedex fails to load"
+  },
+  "empty_pokedex": "no pokedex",
+  "@empty_pokedex": {
+    "description": "Error message shown when the pokedex is empty"
+  },
+  "pokemon_about_title": "About",
+  "@pokemon_about_title": {
+    "description": "Title of the about section"
+  },
+  "pokemon_base_stats_title": "Base Stats",
+  "@pokemon_base_stats_title": {
+    "description": "Title of the base stats section"
+  },
+  "pokemon_weight_title": "Weight",
+  "@pokemon_weight_title": {
+    "description": "Title of the weight section"
+  },
+  "pokemon_height_title": "Height",
+  "@pokemon_height_title": {
+    "description": "Title of the height section"
+  },
+  "pokemon_abilities_title": "Abilities",
+  "@pokemon_abilities_title": {
+    "description": "Title of the abilities section"
+  }
+}
